@@ -13,4 +13,4 @@
 
 ### a BP neural network for predicting
 The BP neural network pic
-![]https://github.com/ambition-xu/R-practice/blob/master/data_mining/BP.png
+![](https://github.com/ambition-xu/R-practice/blob/master/data_mining/BP.png)
