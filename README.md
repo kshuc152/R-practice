@@ -12,5 +12,3 @@
 
 
 ### a BP neural network for predicting
-
-
