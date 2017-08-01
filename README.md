@@ -1,4 +1,4 @@
-### A R practice
+### R practice
 ### Content:
 	- a) facial emotion analysis
 	- b) a BP neural network for predicting
